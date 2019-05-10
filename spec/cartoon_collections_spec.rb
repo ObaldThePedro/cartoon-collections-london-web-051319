@@ -1,4 +1,4 @@
-require_relative "spec_helper"
+require "spec_helper"
 
 describe "Cartoon Collections" do
   describe "#roll_call_dwarves" do
